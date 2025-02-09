@@ -4,7 +4,7 @@ A real-time chat application built using the MERN stack with Socket.io for insta
 
 ## Live Demo
 
-Check out the live application: [Sendy Chat](https://sendy-4qx2.onrender.com)
+Check out the live application: https://sendy-4qx2.onrender.com
 
 ## Features
 
