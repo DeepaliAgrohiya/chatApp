@@ -23,7 +23,8 @@ Check out the live application: https://sendy-4qx2.onrender.com
 - **Authentication**: JWT (JSON Web Token)
 - **File Storage**: Cloudinary for image uploads
 - **Real-time Communication**: Socket.io
-
+- **Testing**: Jest and React Testing Library for unit and integration 
+Complete
 
 
 
